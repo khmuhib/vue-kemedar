@@ -14,7 +14,7 @@
                         </div>
                         <div class="">
                             <div class="w-[60px] h-[60px] rounded-full bg-[#E9E9E9] flex justify-center items-center">
-                                <img class="" src="@/assets/images/icon03.png" alt="">
+                                <img class="" src="@/assets/images/icon03.png" alt=""/>
                             </div>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                         </div>
                         <div class="">
                             <div class="w-[60px] h-[60px] rounded-full bg-[#E9E9E9] flex justify-center items-center">
-                                <img class="" src="@/assets/images/icon03.png" alt="">
+                                <img class="" src="@/assets/images/icon03.png" alt=""/>
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                         </div>
                         <div class="">
                             <div class="w-[60px] h-[60px] rounded-full bg-[#E9E9E9] flex justify-center items-center">
-                                <img class="" src="@/assets/images/icon03.png" alt="">
+                                <img class="" src="@/assets/images/icon03.png" alt=""/>
                             </div>
                         </div>
                     </div>

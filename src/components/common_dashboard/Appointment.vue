@@ -23,7 +23,7 @@
                 <div class="flex justify-between gap-x-2 items-center py-[15px] border-b-[1px]">
                     <div class="flex gap-2 items-center">
                         <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                            alt="">
+                            alt=""/>
                         <div class="">
                             <h3 class="text-[15px] font-bold">John Smith</h3>
                             <p class="text-[#707070] text-[13px] font-semibold">Manager
@@ -41,7 +41,7 @@
                 <div class="flex justify-between gap-x-2 items-center py-[15px] border-b-[1px]">
                     <div class="flex gap-2 items-center">
                         <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                            alt="">
+                            alt=""/>
                         <div class="">
                             <h3 class="text-[15px] font-bold">John Smith</h3>
                             <p class="text-[#707070] text-[13px] font-semibold">Manager
@@ -59,7 +59,7 @@
                 <div class="flex justify-between gap-x-2 items-center py-[15px] border-b-[1px]">
                     <div class="flex gap-2 items-center">
                         <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                            alt="">
+                            alt=""/>
                         <div class="">
                             <h3 class="text-[15px] font-bold">John Smith</h3>
                             <p class="text-[#707070] text-[13px] font-semibold">Manager
@@ -83,7 +83,7 @@
                 <div class="flex justify-between gap-x-2 items-center py-[15px] border-b-[1px]">
                     <div class="flex gap-2 items-center">
                         <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                            alt="">
+                            alt=""/>
                         <div class="">
                             <h3 class="text-[15px] font-bold">John Smith</h3>
                             <p class="text-[#707070] text-[13px] font-semibold">Manager
@@ -101,7 +101,7 @@
                 <div class="flex justify-between gap-x-2 items-center py-[15px] border-b-[1px]">
                     <div class="flex gap-2 items-center">
                         <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                            alt="">
+                            alt=""/>
                         <div class="">
                             <h3 class="text-[15px] font-bold">John Smith</h3>
                             <p class="text-[#707070] text-[13px] font-semibold">Manager
@@ -119,7 +119,7 @@
                 <div class="flex justify-between gap-x-2 items-center py-[15px] border-b-[1px]">
                     <div class="flex gap-2 items-center">
                         <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                            alt="">
+                            alt=""/>
                         <div class="">
                             <h3 class="text-[15px] font-bold">John Smith</h3>
                             <p class="text-[#707070] text-[13px] font-semibold">Manager

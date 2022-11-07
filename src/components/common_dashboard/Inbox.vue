@@ -22,7 +22,7 @@
                         <div
                             class="relative after:absolute after:h-[10px] after:w-[10px] after:rounded-full after:bg-orange-400 after:top-[3px] after:right-0 after:block after:content-[''] z-20">
                             <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                                alt="">
+                                alt=""/>
                         </div>
 
                         <div class="">
@@ -36,7 +36,7 @@
                         <div
                             class="relative after:absolute after:h-[10px] after:w-[10px] after:rounded-full after:bg-red-400 after:top-[3px] after:right-0 after:block after:content-[''] z-20">
                             <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                                alt="">
+                                alt=""/>
                         </div>
 
                         <div class="">
@@ -50,7 +50,7 @@
                         <div
                             class="relative after:absolute after:h-[10px] after:w-[10px] after:rounded-full after:bg-red-400 after:top-[3px] after:right-0 after:block after:content-[''] z-20">
                             <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                                alt="">
+                                alt=""/>
                         </div>
 
                         <div class="">
@@ -64,7 +64,7 @@
                         <div
                             class="relative after:absolute after:h-[10px] after:w-[10px] after:rounded-full after:bg-yellow-400 after:top-[3px] after:right-0 after:block after:content-[''] z-20">
                             <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                                alt="">
+                                alt=""/>
                         </div>
 
                         <div class="">
@@ -78,7 +78,7 @@
                         <div
                             class="relative after:absolute after:h-[10px] after:w-[10px] after:rounded-full after:bg-orange-400 after:top-[3px] after:right-0 after:block after:content-[''] z-20">
                             <img class="h-[43px] w-[43px] rounded-full" src="../../assets/images/dashboard/alert01.png"
-                                alt="">
+                                alt=""/>
                         </div>
 
                         <div class="">

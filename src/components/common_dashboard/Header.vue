@@ -4,7 +4,7 @@
         <nav class="w-full p-[15px] ">
             <div class="flex flex-wrap justify-between items-center py-[10px] px-[20px] bg-white rounded-md shadow">
                 <a href="https://flowbite.com/" class="flex items-center">
-                    <img src="@/assets/images/logoKemedar.png" class="mr-3 h-6 sm:h-9" alt="kemedar Logo">
+                    <img src="@/assets/images/logoKemedar.png" class="mr-3 h-6 sm:h-9" alt="kemedar Logo"/>
 
                 </a>
                 <div class="flex items-center md:order-2">
@@ -14,7 +14,7 @@
                         data-dropdown-placement="bottom">
                         <span class="sr-only">Open user menu</span>
                         <img class="w-8 h-8 rounded-full" src="https://mdbcdn.b-cdn.net/img/new/avatars/2.webp"
-                            alt="user photo">
+                            alt="user photo"/>
                     </button>
                     <!-- Dropdown menu -->
                     <div v-show="isShow"
