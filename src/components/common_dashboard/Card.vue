@@ -5,7 +5,7 @@
             <div class="flex flex-col items-center pb-2 mb-3">
                 <h5 class="mb-1 text-xl font-medium text-center m-2 p-2">Kemedar Representaive In Your Area</h5>
                 <img class="mb-3 w-24 h-24 rounded-full shadow-lg" src="https://mdbcdn.b-cdn.net/img/new/avatars/2.webp"
-                    alt="Bonnie image"/>
+                    alt="Bonnie image">
                 <h5 class="mb-1 text-xl font-medium ">Bonnie Green</h5>
                 <span class="text-sm text-gray-500">Visual Designer</span>
 

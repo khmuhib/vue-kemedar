@@ -2,27 +2,26 @@
     <div>
         <div class="w-full  p-[15px]">
             <div class="py-[10px] px-[20px] bg-white rounded-md shadow ">
-                <div class="flex justify-between py-[20px] items-center">
-                    <div class="text-[#000000] text-[30px] font-bold">
-                        <h1>My Activites</h1>
-                    </div>
-                    <div class="">
-                        <div
-                            class="flex bg-gradient-to-l from-orange-200 to-[#fff] py-[5px] px-[5px] rounded-md text-orange-400">
-                            <div class="">
-                                <img src="../../assets/images/icon01.png" alt=""/>
-                            </div>
-                            <div class="">
-                                <p>08:15 AM</p>
-                            </div>
-                        </div>
-                    </div>
+            <div class="flex justify-between">
+                <div class="">
+                    <h2 class="text-[19px] font-bold">My Activities</h2>
                 </div>
+                <div class="">
+                    <select class="bg-orange-100 text-orange-400 text-[12px] py-[5px] px-[5px] rounded-md">
+                        <option value="" class="">Today</option>
+                        <option value="" class="">Today</option>
+                        <option value="" class="">Today</option>
+                        <option value="" class="">Today</option>
+                        <option value="" class="">Today</option>
+                        <option value="" class="">Today</option>
+                    </select>
+                </div>
+            </div>
                 <div class="">
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../../assets/images/icon01.png" alt="dff"/>
+                                <img src="../../assets/images/icon01.png" alt="">
                             </div>
                         </div>
                         <div class="flex-1">
@@ -35,7 +34,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../../assets/images/icon01.png" alt="ddd"/>
+                                <img src="../../assets/images/icon01.png" alt="">
                             </div>
                         </div>
                         <div class="flex-1">
@@ -48,7 +47,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../../assets/images/icon01.png" alt="ddd"/>
+                                <img src="../../assets/images/icon01.png" alt="">
                             </div>
                         </div>
                         <div class="flex-1">
@@ -61,7 +60,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../../assets/images/icon01.png" alt="ddd"/>
+                                <img src="../../assets/images/icon01.png" alt="">
                             </div>
                         </div>
                         <div class="flex-1">
@@ -74,7 +73,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../../assets/images/icon01.png" alt="ddd"/>
+                                <img src="../../assets/images/icon01.png" alt="">
                             </div>
                         </div>
                         <div class="flex-1">
@@ -87,7 +86,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../../assets/images/icon01.png" alt="ddd"/>
+                                <img src="../../assets/images/icon01.png" alt="">
                             </div>
                         </div>
                         <div class="flex-1">
@@ -100,7 +99,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../../assets/images/icon01.png" alt="ddd"/>
+                                <img src="../../assets/images/icon01.png" alt="">
                             </div>
                         </div>
                         <div class="flex-1">

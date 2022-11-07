@@ -4,7 +4,7 @@
         <div class="py-[10px] px-[20px] bg-white rounded-md shadow">
 
             <div class="grid grid-cols-2">
-                <div class="col-span-2 items-center pb-10 border-b-2 mb-3">
+                <div class="col-span-2 items-center pb-10 border-b-2 mb-3 text-center">
                     <h5 class="mb-1 text-xl font-medium  m-2 p-2">Account Uses Limit</h5>
                     <p class="text-ash text-xs text-center">Total property status</p>
                     <p class="text-ash text-md text-center">05</p>

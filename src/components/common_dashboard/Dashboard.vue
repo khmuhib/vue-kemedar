@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full  p-[15px]">
+    <div class="w-full p-[15px] mt-[50px]">
         <div class="py-[10px] px-[20px] bg-white rounded-md shadow ">
             <div class="container flex flex-wrap justify-between items-center mx-auto">
 

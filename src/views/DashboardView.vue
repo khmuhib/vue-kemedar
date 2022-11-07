@@ -2,7 +2,8 @@
     <div class="">
         <div class="bg-[#e8e6ff]">
             <div>
-                <Header @toggle="showModal = true" />
+                <!-- <Header @toggle="showModal = true" /> -->
+                <Navbar/>
             </div>
             <div class="">
                 <Dashboard />
@@ -100,6 +101,7 @@ import Inbox from '../components/common_dashboard/Inbox.vue';
 import PremiumServices from '../components/common_dashboard/PremiumServices.vue';
 import Academy from '../components/common_dashboard/Academy.vue';
 import Reit from '../components/common_dashboard/Reit.vue';
+import Navbar from '../components/common_dashboard/Navbar.vue';
 
 
 
@@ -135,7 +137,8 @@ export default {
         Reit,
         Buttons,
         FileManager,
-        AffiliateProgram
+        AffiliateProgram,
+        Navbar,
     },
 }
 </script>

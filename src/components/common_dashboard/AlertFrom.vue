@@ -6,7 +6,7 @@
                     <h2 class="text-[19px] font-bold">Alert From Kemedar</h2>
                 </div>
                 <div class="bg-[#F6F6F6]">
-                    <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon01.png" alt=""/>
+                    <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon01.png" alt="">
                 </div>
             </div>
             <div class="mt-[20px] px-[20px]">

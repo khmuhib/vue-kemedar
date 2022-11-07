@@ -12,13 +12,13 @@
                         <div class="bg-white border rounded-xl">
                             <div class="p-[5px]">
                                 <img class="w-full h-[200px] rounded-xl"
-                                    src="../../assets/images/commonDashboard/real01.png" alt=""/>
+                                    src="../../assets/images/commonDashboard/real01.png" alt="">
                             </div>
                             <div class="border-b py-[10px]">
                                 <div class="flex flex-col px-[20px] gap-y-2">
                                     <h3 class="font-bold text-[18px]">Los Angeles</h3>
                                     <div class="flex items-center gap-x-2">
-                                        <img class="h-[15px] w-[10px]" src="../../assets/images/commonDashboard/icon03.png" alt=""/>
+                                        <img class="h-[15px] w-[10px]" src="../../assets/images/commonDashboard/icon03.png" alt="">
                                         <p class="text-[#747678] font-semibold text-[12px] mt-[5px]">8706 Herrick Ave, Los Angeles</p>
                                     </div>
                                     <div class="">
@@ -40,7 +40,7 @@
                                         </div>
                                         <div class="">
                                             <div class="flex justify-center items-center gap-x-2">
-                                                <img class="h-[13px]" src="../../assets/images/commonDashboard/icon04.png" alt=""/>
+                                                <img class="h-[13px]" src="../../assets/images/commonDashboard/icon04.png" alt="">
                                                 <p class="text-[#07e107] font-bold text-[13px]">80% + 90%</p>
                                             </div>
                                             
@@ -60,7 +60,7 @@
                                 <div class="flex">
                                     <div class="w-[50%]">
                                         <div class="flex justify-center items-center gap-x-2">
-                                            <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon05.png" alt=""/>
+                                            <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon05.png" alt="">
                                             <p class="text-[14px] font-bold text-[#c41e1e]">Time Left</p>
                                         </div>
                                         <div class="text-center">
@@ -78,13 +78,13 @@
                         <div class="bg-white border rounded-xl">
                             <div class="p-[5px]">
                                 <img class="w-full h-[200px] rounded-xl"
-                                    src="../../assets/images/commonDashboard/real01.png" alt=""/>
+                                    src="../../assets/images/commonDashboard/real01.png" alt="">
                             </div>
                             <div class="border-b py-[10px]">
                                 <div class="flex flex-col px-[20px] gap-y-2">
                                     <h3 class="font-bold text-[18px]">Los Angeles</h3>
                                     <div class="flex items-center gap-x-2">
-                                        <img class="h-[15px] w-[10px]" src="../../assets/images/commonDashboard/icon03.png" alt=""/>
+                                        <img class="h-[15px] w-[10px]" src="../../assets/images/commonDashboard/icon03.png" alt="">
                                         <p class="text-[#747678] font-semibold text-[12px] mt-[5px]">8706 Herrick Ave, Los Angeles</p>
                                     </div>
                                     <div class="">
@@ -106,7 +106,7 @@
                                         </div>
                                         <div class="">
                                             <div class="flex justify-center items-center gap-x-2">
-                                                <img class="h-[13px]" src="../../assets/images/commonDashboard/icon04.png" alt=""/>
+                                                <img class="h-[13px]" src="../../assets/images/commonDashboard/icon04.png" alt="">
                                                 <p class="text-[#07e107] font-bold text-[13px]">80% + 90%</p>
                                             </div>
                                             
@@ -126,7 +126,7 @@
                                 <div class="flex">
                                     <div class="w-[50%]">
                                         <div class="flex justify-center items-center gap-x-2">
-                                            <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon05.png" alt=""/>
+                                            <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon05.png" alt="">
                                             <p class="text-[14px] font-bold text-[#c41e1e]">Time Left</p>
                                         </div>
                                         <div class="text-center">
@@ -144,13 +144,13 @@
                         <div class="bg-white border rounded-xl">
                             <div class="p-[5px]">
                                 <img class="w-full h-[200px] rounded-xl"
-                                    src="../../assets/images/commonDashboard/real01.png" alt=""/>
+                                    src="../../assets/images/commonDashboard/real01.png" alt="">
                             </div>
                             <div class="border-b py-[10px]">
                                 <div class="flex flex-col px-[20px] gap-y-2">
                                     <h3 class="font-bold text-[18px]">Los Angeles</h3>
                                     <div class="flex items-center gap-x-2">
-                                        <img class="h-[15px] w-[10px]" src="../../assets/images/commonDashboard/icon03.png" alt=""/>
+                                        <img class="h-[15px] w-[10px]" src="../../assets/images/commonDashboard/icon03.png" alt="">
                                         <p class="text-[#747678] font-semibold text-[12px] mt-[5px]">8706 Herrick Ave, Los Angeles</p>
                                     </div>
                                     <div class="">
@@ -172,7 +172,7 @@
                                         </div>
                                         <div class="">
                                             <div class="flex justify-center items-center gap-x-2">
-                                                <img class="h-[13px]" src="../../assets/images/commonDashboard/icon04.png" alt=""/>
+                                                <img class="h-[13px]" src="../../assets/images/commonDashboard/icon04.png" alt="">
                                                 <p class="text-[#07e107] font-bold text-[13px]">80% + 90%</p>
                                             </div>
                                             
@@ -192,7 +192,7 @@
                                 <div class="flex">
                                     <div class="w-[50%]">
                                         <div class="flex justify-center items-center gap-x-2">
-                                            <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon05.png" alt=""/>
+                                            <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon05.png" alt="">
                                             <p class="text-[14px] font-bold text-[#c41e1e]">Time Left</p>
                                         </div>
                                         <div class="text-center">
@@ -210,13 +210,13 @@
                         <div class="bg-white border rounded-xl">
                             <div class="p-[5px]">
                                 <img class="w-full h-[200px] rounded-xl"
-                                    src="../../assets/images/commonDashboard/real01.png" alt=""/>
+                                    src="../../assets/images/commonDashboard/real01.png" alt="">
                             </div>
                             <div class="border-b py-[10px]">
                                 <div class="flex flex-col px-[20px] gap-y-2">
                                     <h3 class="font-bold text-[18px]">Los Angeles</h3>
                                     <div class="flex items-center gap-x-2">
-                                        <img class="h-[15px] w-[10px]" src="../../assets/images/commonDashboard/icon03.png" alt=""/>
+                                        <img class="h-[15px] w-[10px]" src="../../assets/images/commonDashboard/icon03.png" alt="">
                                         <p class="text-[#747678] font-semibold text-[12px] mt-[5px]">8706 Herrick Ave, Los Angeles</p>
                                     </div>
                                     <div class="">
@@ -238,7 +238,7 @@
                                         </div>
                                         <div class="">
                                             <div class="flex justify-center items-center gap-x-2">
-                                                <img class="h-[13px]" src="../../assets/images/commonDashboard/icon04.png" alt=""/>
+                                                <img class="h-[13px]" src="../../assets/images/commonDashboard/icon04.png" alt="">
                                                 <p class="text-[#07e107] font-bold text-[13px]">80% + 90%</p>
                                             </div>
                                             
@@ -258,7 +258,7 @@
                                 <div class="flex">
                                     <div class="w-[50%]">
                                         <div class="flex justify-center items-center gap-x-2">
-                                            <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon05.png" alt=""/>
+                                            <img class="h-[15px] w-[15px]" src="../../assets/images/commonDashboard/icon05.png" alt="">
                                             <p class="text-[14px] font-bold text-[#c41e1e]">Time Left</p>
                                         </div>
                                         <div class="text-center">

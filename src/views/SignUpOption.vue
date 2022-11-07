@@ -95,5 +95,6 @@ export default {
 .login_page_main {
     background-image: url('../assets/images/login/bg.png');
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 </style>

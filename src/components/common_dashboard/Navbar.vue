@@ -1,6 +1,6 @@
 <template>
-    <header class="top-0 fixed z-[100] bg-yellow-400 w-full shadow-lg">
-        <nav class="container flex text-white py-6 mx-auto md:px-[0] px-[20px] items-center" @click="outSideOut">
+    <header class="w-full top-0 fixed z-[100] overflow-hidden">
+        <nav class="bg-white container flex text-white mx-auto md:px-[0] px-[20px] items-center rounded py-[10px]" @click="outSideOut">
             <div className="group relative w-6 h-6 cursor-pointer flex-col justify-between items-center flex"
                 @click="toggle">
                 <!-- hamburger button  -->
@@ -12,14 +12,14 @@
                     class="h-[3px] w-full bg-black rounded-lg group-hover:text-red-500 cursor-pointer transform transition duration-300 ease-in-out"></span>
             </div>
             <div class="flex-1">
-                <img src="../assets/images/logoKemedar.png" alt="" class="w-32 ml-5">
+                <img src="../../assets/images/logoKemedar.png" alt="" class="w-32 ml-5">
             </div>
             <div class="flex gap-3 ml-4">
                 <router-link to="/dashboard">
-                    <img src="../assets/images/icon01.png" alt="" class="w-[25px] h-[25px]">
+                    <img src="../../assets/images/icon01.png" alt="" class="w-[25px] h-[25px]">
                 </router-link>
                 <router-link to="/sign-up-option">
-                    <img src="../assets/images/icon02.png" alt="" class="w-[25px] h-[25px]">
+                    <img src="../../assets/images/icon02.png" alt="" class="w-[25px] h-[25px]">
                 </router-link>
                 
             </div>
@@ -206,7 +206,7 @@
 </template>
 
 <script>
-import Accordion from '../components/Accordion.vue';
+import Accordion from './Accordion.vue';
 export default {
 
     name: 'Navbar',

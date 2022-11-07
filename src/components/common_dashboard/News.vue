@@ -20,7 +20,7 @@
                 <div class="flex justify-between gap-x-2 items-start py-[15px] border-b-[1px]">
                     <div class="flex gap-3">
                         <img class="w-[60px]" src="../../assets/images/commonDashboard/dev01.png"
-                            alt=""/>
+                            alt="">
                         <div class="">
                             <h3 class="text-[15px] font-bold">Kemenews property video...</h3>
                             <p>Subheading will be here..</p>
@@ -35,7 +35,7 @@
                 <div class="flex justify-between gap-x-2 items-start py-[15px] border-b-[1px]">
                     <div class="flex gap-3">
                         <img class="w-[60px]" src="../../assets/images/commonDashboard/dev01.png"
-                            alt=""/>
+                            alt="">
                         <div class="">
                             <h3 class="text-[15px] font-bold">Kemenews property video...</h3>
                             <p>Subheading will be here..</p>
@@ -50,7 +50,7 @@
                 <div class="flex justify-between gap-x-2 items-start py-[15px]">
                     <div class="flex gap-3">
                         <img class="w-[60px]" src="../../assets/images/commonDashboard/dev01.png"
-                            alt=""/>
+                            alt="">
                         <div class="">
                             <h3 class="text-[15px] font-bold">Kemenews property video...</h3>
                             <p>Subheading will be here..</p>
