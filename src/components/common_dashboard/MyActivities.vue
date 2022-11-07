@@ -10,7 +10,7 @@
                         <div
                             class="flex bg-gradient-to-l from-orange-200 to-[#fff] py-[5px] px-[5px] rounded-md text-orange-400">
                             <div class="">
-                                <img src="../assets/images/icon01.png" alt="">
+                                <img src="../assets/images/icon01.png" alt="mmmm"/>
                             </div>
                             <div class="">
                                 <p>08:15 AM</p>
@@ -22,7 +22,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../assets/images/icon01.png" alt="">
+                                <img src="../assets/images/icon01.png" alt="dff"/>
                             </div>
                         </div>
                         <div class="flex-1">
@@ -35,7 +35,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../assets/images/icon01.png" alt="">
+                                <img src="../assets/images/icon01.png" alt=""/>
                             </div>
                         </div>
                         <div class="flex-1">
@@ -48,7 +48,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../assets/images/icon01.png" alt="">
+                                <img src="../assets/images/icon01.png" alt=""/>
                             </div>
                         </div>
                         <div class="flex-1">
@@ -61,7 +61,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../assets/images/icon01.png" alt="">
+                                <img src="../assets/images/icon01.png" alt=""/>
                             </div>
                         </div>
                         <div class="flex-1">
@@ -74,7 +74,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../assets/images/icon01.png" alt="">
+                                <img src="../assets/images/icon01.png" alt=""/>
                             </div>
                         </div>
                         <div class="flex-1">
@@ -87,7 +87,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../assets/images/icon01.png" alt="">
+                                <img src="../assets/images/icon01.png" alt=""/>
                             </div>
                         </div>
                         <div class="flex-1">
@@ -100,7 +100,7 @@
                     <div class="flex justify-between gap-x-7 items-center my-[15px]">
                         <div class="">
                             <div class="bg-[#F2EEFE] p-[15px] rounded-full">
-                                <img src="../assets/images/icon01.png" alt="">
+                                <img src="../assets/images/icon01.png" alt=""/>
                             </div>
                         </div>
                         <div class="flex-1">
